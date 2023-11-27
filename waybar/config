@@ -5,8 +5,8 @@
     // "width": 1280, // Waybar width
     "spacing": 0, // Gaps between modules (4px)
     // Choose the order of the modules
-    "modules-left": ["clock", "pulseaudio", "tray", "hyprland/workspaces"],
-    "modules-center": [],
+    "modules-left": [],
+    "modules-center": ["clock", "pulseaudio", "tray", "hyprland/workspaces"],
     "modules-right": [],
     // Modules configuration
     "hyprland/workspaces": {
